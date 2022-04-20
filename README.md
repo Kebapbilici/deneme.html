@@ -1,0 +1,2 @@
+# deneme.html
+html kodu
