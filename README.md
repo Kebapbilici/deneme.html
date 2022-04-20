@@ -1,6 +1,3 @@
-
-<!DOCTYPE html>
-<html>
 <title>W3.CSS</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -44,7 +41,7 @@ body {font-family: "Roboto", sans-serif}
 </div>
 
 <header class="w3-container w3-theme" style="padding:64px 32px">
-  <h1 class="w3-xxxlarge">mete okan erdoğan</h1>
+  <h1 class="w3-xxxlarge">Batuhan Bilici</h1>
 </header>
 
 <div class="w3-container" style="padding:32px">
